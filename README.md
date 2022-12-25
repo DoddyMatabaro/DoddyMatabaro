@@ -4,9 +4,6 @@ I'm Doddy Matabaro, a software developer.
 
 I'm a passionate learner.
 
-I love all dev tech stacks.
-
-
 <!--
 **DoddyMatabaro/DoddyMatabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
