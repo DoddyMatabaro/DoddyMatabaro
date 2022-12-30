@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello 👋
 
 I'm Doddy Matabaro, a software developer.
 
